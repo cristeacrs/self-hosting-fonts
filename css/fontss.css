@@ -9,12 +9,10 @@
   src: url("https://cdn.jsdelivr.net/gh/cristeacrs/self-hosting-fonts@main/black-mango-regular.ttf")
     format("ttf");
   font-weight: 100;
-  font-style: normal;
 }
 @font-face {
   font-family: "iwata";
   src: url("https://cdn.jsdelivr.net/gh/cristeacrs/self-hosting-fonts@main/iwata-souchou-pro-medium.ttf")
     format("ttf");
   font-weight: 100;
-  font-style: normal;
 }
